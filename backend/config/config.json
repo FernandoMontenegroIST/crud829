@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Paul154mon26783",
+    "database": "ejercicio",
+    "host": "localhost",
+    "dialect": "postgres",
+    "schema": "crud_ejercicio"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Paul154mon26783",
+    "database": "ejercicio",
+    "host": "localhost",
+    "dialect": "postgres",
+    "schema": "crud_ejercicio"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Paul154mon26783",
+    "database": "ejercicio",
+    "host": "localhost",
+    "dialect": "postgres",
+    "schema": "crud_ejercicio"
+  }
+}
